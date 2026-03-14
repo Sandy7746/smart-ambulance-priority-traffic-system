@@ -1,4 +1,5 @@
 # Smart Ambulance Priority Traffic System
+##The firmware source code for this project is available in the 4_road_junction_with_priority.ino directory.
 
 ## Overview
 The Smart Ambulance Priority Traffic System is an IoT-based intelligent traffic management solution designed to reduce delays for emergency vehicles. The system detects approaching ambulances and dynamically prioritizes traffic signals at intersections to allow faster and safer passage.
